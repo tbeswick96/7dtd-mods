@@ -13,8 +13,8 @@
 - `Level 4 - Inventor` of the `Advanced Engineering` perk will unlock all inverse variants
 - **Requires [DMT](https://github.com/HAL-NINE-THOUSAND/DMT)**
 
-![Preview - Power On](Tims_InverseDoors/preview_poweron.png)
+![Preview - Power On](preview_poweron.png)
 
-![Preview - Power Off](Tims_InverseDoors/preview_poweroff.png)
+![Preview - Power Off](preview_poweroff.png)
 
 [Download](https://github.com/tbeswick96/7dtd-mods/releases/tag/1.0.0) from releases
