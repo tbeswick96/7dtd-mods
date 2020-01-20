@@ -1,4 +1,4 @@
-## Tim's 7 Days to Die Mods
+# Tim's 7 Days to Die Mods
 
 [Download]() from releases
 
