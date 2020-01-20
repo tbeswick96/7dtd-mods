@@ -1,8 +1,4 @@
-# Tim's 7 Days to Die Mods
-
-[Download](https://github.com/tbeswick96/7dtd-mods/releases) from releases
-
-## Inverse Doors - A18.2 - DMT
+# Inverse Doors - A18.2 - DMT
 
 - Adds variants of each powered door where the power state is inverted
 - For example, by default the drawbridge is down when powered. The inverted variant is up when powered
@@ -20,3 +16,5 @@
 ![Preview - Power On](Tims_InverseDoors/preview_poweron.png)
 
 ![Preview - Power Off](Tims_InverseDoors/preview_poweroff.png)
+
+[Download](https://github.com/tbeswick96/7dtd-mods/releases/tag/1.0.0) from releases
