@@ -1,0 +1,43 @@
+<configs>
+    <append xpath="/blocks">
+        <!-- Inverse drawbridge -->
+        <block name="metalReinforcedWoodDrawBridgePoweredInverse">
+            <property name="Extends" value="metalReinforcedWoodDrawBridgePowered"/>
+            <property name="Class" value="PoweredDoorInverse, Mods"/>
+            <property name="DescriptionKey" value="drawBridgePoweredInverseGroupDesc"/>
+            <property name="CustomIcon" value="metalReinforcedWoodDrawBridgeInverse"/>
+        </block>
+
+        <!-- Inverse vault door -->
+        <block name="vaultDoor03_PoweredInverse">
+            <property name="Extends" value="vaultDoor03_Powered"/>
+            <property name="Class" value="PoweredDoorInverse, Mods"/>
+            <property name="DescriptionKey" value="vaultDoor03_PoweredInverseDesc"/>
+            <property name="CustomIcon" value="vaultDoor03Inverse"/>
+        </block>
+
+        <!-- Inverse vault hatch -->
+        <block name="vaultHatch_v3_PoweredInverse">
+            <property name="Extends" value="vaultHatch_v3_Powered"/>
+            <property name="Class" value="PoweredDoorInverse, Mods"/>
+            <property name="DescriptionKey" value="vaultHatch_v3_PoweredInverseDesc"/>
+            <property name="CustomIcon" value="vaultHatch_v3Inverse"/>
+        </block>
+
+        <!-- Inverse garage door -->
+        <block name="garageDoorMetal_v1PoweredInverse">
+            <property name="Extends" value="garageDoorMetal_v1Powered"/>
+            <property name="Class" value="PoweredDoorInverse, Mods"/>
+            <property name="DescriptionKey" value="vaultDoor03_PoweredInverseDesc"/>
+            <property name="CustomIcon" value="garageDoorMetal_v1Inverse"/>
+        </block>
+
+        <!-- Inverse industrial garage door -->
+        <block name="garageDoorIndustrial_PoweredInverse">
+            <property name="Extends" value="garageDoorIndustrial_Powered"/>
+            <property name="Class" value="PoweredDoorInverse, Mods"/>
+            <property name="DescriptionKey" value="garageDoorIndustrial_PoweredInverseDesc"/>
+            <property name="CustomIcon" value="garageDoorIndustrial_PoweredInverse"/>
+        </block>
+    </append>
+</configs>

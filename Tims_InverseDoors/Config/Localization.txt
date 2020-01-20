@@ -1,0 +1,11 @@
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+metalReinforcedWoodDrawBridgePoweredInverse,,blocks,Door,newKey,Reinforced Drawbridge (Powered Inverse),,,,,
+drawBridgePoweredInverseGroupDesc,,blocks,Door,newKey,It's old-fashioned but with everything that's happening you might just need a little old-fashioned. Connect to a power source to deactivate this drawbridge.,,,,,
+vaultDoor03_PoweredInverse,,blocks,Door,newKey,Vault Door 03 (Powered Inverse),,,,,
+vaultDoor03_PoweredInverseDesc,,blocks,Door,newKey,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel. Connect to a power source to deactivate this door.,,,,,
+vaultHatch_v3_PoweredInverse,,blocks,Door,newKey,Vault Hatch v3 (Powered Inverse),,,,,
+vaultHatch_v3_PoweredInverseDesc,,blocks,Door,newKey,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel. Connect to a power source to deactivate this hatch.,,,,,
+garageDoorMetal_v1PoweredInverse,,blocks,Door,newKey,Steel Garage Door 3x2 (Powered Inverse),,,,,
+garageDoorMetal_v1PoweredInverseDesc,,blocks,Door,newKey,A wide Garage Door that can be locked.\nRepair with Forged Steel.\nConnect to a power source to deactivate/close this garage door.,,,,,
+garageDoorIndustrial_PoweredInverse,,blocks,Door,newKey,Steel Garage Door 5x3 (Powered Inverse),,,,,
+garageDoorIndustrial_PoweredInverseDesc,,blocks,Door,newKey,A rolling overhead Garage Door that can be locked.\nUsing the default placement you are standing on the outside and it will open by rolling up and away from you.\nRepair with Forged Steel.\nConnect to a power source to deactivate/close this garage door.,,,,,

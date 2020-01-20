@@ -1,0 +1,10 @@
+<mod>
+    <info>
+        <author>Tim</author>
+        <name>Tim's Inverse Doors</name>
+        <description>Adds variants of each type of powered door that is the inverse of its powered state. e.g Drawbridge is open when powered</description>
+        <mod_version>1.0.0</mod_version>
+        <game_version>18.2</game_version>
+        <launcher_version>0.0.0</launcher_version>
+    </info>
+</mod>

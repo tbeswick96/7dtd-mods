@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <ModInfo>
+        <Name value="Tim's Inverse Doors" />
+        <Description value="Adds variants of each type of powered door that is the inverse of its powered state. e.g Drawbridge is open when powered" />
+        <Author value="Tim" />
+        <Version value="1.0.0" />
+        <Website value="" />
+    </ModInfo>
+</xml>

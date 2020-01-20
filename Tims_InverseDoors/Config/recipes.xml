@@ -1,0 +1,59 @@
+<configs>
+    <append xpath="/recipes">
+        <!-- Inverse drawbridge -->
+        <recipe name="metalReinforcedWoodDrawBridgePoweredInverse" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceForgedIron" count="100"/>
+            <ingredient name="resourceWood" count="1000"/>
+            <ingredient name="resourceSpring" count="20"/>
+            <ingredient name="resourceMechanicalParts" count="30"/>
+            <ingredient name="resourceElectricParts" count="30"/>
+            <effect_group>
+                <passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".5,.5,.5,.3,.15" tags="resourceForgedIron,resourceWood,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+            </effect_group>
+        </recipe>
+
+        <!-- Inverse vault door -->
+        <recipe name="vaultDoor03_PoweredInverse" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceForgedSteel" count="36"/>
+            <ingredient name="resourceSpring" count="6"/>
+            <ingredient name="resourceMechanicalParts" count="12"/>
+            <ingredient name="resourceElectricParts" count="24"/>
+            <effect_group>
+                <passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".5,.5,.5,.3,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+            </effect_group>
+        </recipe>
+
+        <!-- Inverse vault hatch -->
+        <recipe name="vaultHatch_v3_PoweredInverse" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceForgedSteel" count="36"/>
+            <ingredient name="resourceSpring" count="6"/>
+            <ingredient name="resourceMechanicalParts" count="12"/>
+            <ingredient name="resourceElectricParts" count="24"/>
+            <effect_group>
+                <passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".5,.5,.5,.3,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+            </effect_group>
+        </recipe>
+
+        <!-- Inverse garage door -->
+        <recipe name="garageDoorMetal_v1PoweredInverse" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceForgedSteel" count="40"/>
+            <ingredient name="resourceSpring" count="6"/>
+            <ingredient name="resourceMechanicalParts" count="12"/>
+            <ingredient name="resourceElectricParts" count="12"/>
+            <effect_group>
+                <passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".5,.5,.5,.3,.15" tags="resourceScrapIron,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+            </effect_group>
+        </recipe>
+
+        <!-- Inverse industrial garage door -->
+        <recipe name="garageDoorIndustrial_PoweredInverse" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+            <ingredient name="resourceForgedSteel" count="60"/>
+            <ingredient name="resourceSpring" count="12"/>
+            <ingredient name="resourceMechanicalParts" count="24"/>
+            <ingredient name="resourceElectricParts" count="20"/>
+            <effect_group>
+                <passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".5,.5,.5,.3,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+            </effect_group>
+        </recipe>
+    </append>
+</configs>

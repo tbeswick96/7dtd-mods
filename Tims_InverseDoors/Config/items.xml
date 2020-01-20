@@ -1,0 +1,9 @@
+<configs>
+    <append xpath="/items/item[@name='poweredDoorsSchematic']/effect_group">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="metalReinforcedWoodDrawBridgePoweredInverse" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="vaultDoor03_PoweredInverse" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="vaultHatch_v3_Powered" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="garageDoorMetal_v1PoweredInverse" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="garageDoorIndustrial_PoweredInverse" operation="set" value="1"/>
+    </append>
+</configs>
